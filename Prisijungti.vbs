@@ -18,7 +18,7 @@ WshShell.SendKeys "^%{TAB}"
 WScript.Sleep 500
 WshShell.SendKeys "{ENTER}"
 WScript.Sleep 500
-WshShell.SendKeys "VPN adresas"
+WshShell.SendKeys "VPN slaptazodis"
 WshShell.SendKeys "{ENTER}"
 WScript.Sleep 5000
 
