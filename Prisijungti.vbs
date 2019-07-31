@@ -25,7 +25,6 @@ WScript.Sleep 5000
 WshShell.Run "http://sveidra.vlk.lt/forms/frmservlet?config=apap_prod"
 WScript.Sleep 4000
 
-
 WshShell.SendKeys "APAP vartotojo vardas"
 WshShell.SendKeys "{TAB}"
 WScript.Sleep 500
